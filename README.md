@@ -1,5 +1,6 @@
 #READ ME
-Feito pelos alunos: Gustavo Henrique - 27636666
+Feito pelos alunos: 
+                    Gustavo Henrique - 27636666
 
                     Nicollas Monteiro - 28287274
 
