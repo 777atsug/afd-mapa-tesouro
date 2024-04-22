@@ -1,4 +1,4 @@
-#READ ME
+
 Feito pelos alunos: 
                     Gustavo Henrique - 27636666
 
